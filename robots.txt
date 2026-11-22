@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sitanshu2811-beep.github.io/belpak-abhay-goyal/sitemap.xml
